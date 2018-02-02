@@ -1,6 +1,6 @@
 # SimpleChat
 
-A simple console Chat App written in Golang
+A simple console Chat App written in Golang.
 This is my first attempt at a simple Golang Project.
 
 Next Steps:
@@ -13,6 +13,4 @@ Add Automated Predefined Messages that are triggered based on Time
 
 Add Autocomplete of User defined strings { Trie ? map ? } 
 
-User Authentication ?
-
-?
+User Authentication 
